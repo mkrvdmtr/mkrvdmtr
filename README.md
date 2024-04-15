@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mkrvdmtr
 - 👀 I’m interested in M365/Azure
-- 🌱 I’m currently learning Az-400 course
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... just drop a message ;)
 
 <!---
